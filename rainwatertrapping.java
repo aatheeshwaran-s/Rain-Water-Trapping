@@ -32,6 +32,6 @@ class Solution {
 
         int result = obj.trap(height);
 
-        System.out.println("Trapped Water: " + result);
+        System.out.println("Trapped Water level :" + result);
     }
 }
